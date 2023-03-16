@@ -98,7 +98,7 @@ footer {
     width: 240px;
 
     g {
-      fill: #272a31;
+      fill: $color-dark;
     }
   }
 
@@ -339,6 +339,14 @@ header {
     h1,
     h3 {
       text-align: center;
+    }
+  }
+
+  footer {
+    background-color: $color-dark;
+
+    .logo-footer {
+      filter: grayscale(0);
     }
   }
 }
@@ -629,6 +637,8 @@ header {
       display: block;
       margin: 0;
       padding: 0;
+      background-color: $color-dark;
+      color: $color-white;
 
       .menu {
         display: flex;
@@ -644,7 +654,7 @@ header {
           text-transform: capitalize;
           gap: 0.25rem;
           padding: 0.5rem;
-          color: #777;
+          color: $color-white;
           transition: all 0.25s ease-in;
 
           i {

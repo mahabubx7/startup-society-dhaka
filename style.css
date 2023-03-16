@@ -381,6 +381,14 @@ header .mobile-menu #cross i {
   text-align: center;
 }
 
+.about-page footer {
+  background-color: #272a31;
+}
+
+.about-page footer .logo-footer {
+  filter: grayscale(0);
+}
+
 #program {
   background-color: #272a31;
 }
@@ -680,6 +688,8 @@ header .mobile-menu #cross i {
     display: block;
     margin: 0;
     padding: 0;
+    background-color: #272a31;
+    color: #fff;
   }
 
   header #topbar .menu {
@@ -697,7 +707,7 @@ header .mobile-menu #cross i {
     text-transform: capitalize;
     gap: 0.25rem;
     padding: 0.5rem;
-    color: #777;
+    color: #fff;
     transition: all 0.25s ease-in;
   }
 
