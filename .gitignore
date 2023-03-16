@@ -1,0 +1,8 @@
+# for ignores
+node_modules
+
+
+# OS & others
+.DS_Store
+.ini
+.exe
