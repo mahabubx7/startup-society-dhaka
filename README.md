@@ -68,7 +68,9 @@ It's Microverse program capstone (module-1) project
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="live-demo"></a>
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/5396615b9154402abf41e64efaf269b5" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/5396615b9154402abf41e64efaf269b5-with-play.gif)](https://www.loom.com/embed/5396615b9154402abf41e64efaf269b5)
+
 - [Loom presentation video](https://www.loom.com/share/5396615b9154402abf41e64efaf269b5)
 - [Live Demo Link](https://mahabubx7.github.io/capstone-project-1/)
 
