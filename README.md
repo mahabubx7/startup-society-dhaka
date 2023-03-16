@@ -69,7 +69,7 @@ It's Microverse program capstone (module-1) project
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://mahabubx7.github.io/startup-society-summit/)
+- [Live Demo Link](https://mahabubx7.github.io/capstone-project-1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -104,7 +104,7 @@ npm test:js
 ### Deployment
 
 Deployed in `Github Pages`.
-[Live preview](https://mahbaubx7.github.io/startup-ideas-summit)
+[Live preview](https://mahbaubx7.github.io/capstone-project-1)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
