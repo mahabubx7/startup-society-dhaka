@@ -107,7 +107,7 @@ npm test:js
 ### Deployment
 
 Deployed in `Github Pages`.
-[Live preview](https://mahbaubx7.github.io/capstone-project-1)
+[Live preview]([https://mahbaubx7.github.io/capstone-project-1](https://mahabubx7.github.io/startup-society-dhaka/))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
